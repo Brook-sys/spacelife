@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009FC5</color>
+    <color name="colorPrimaryDark">#008EAF</color>
+    <color name="colorAccent">#13CE66</color>
+    <color name="background">#20222E</color>
+    <color name="backrelationedappColor">#2D2D3D</color>
+    <color name="strokerelationedappColor">#56565F</color>
+    <color name="textColor">#FFF</color>
+    <color name="textpayColor">#C0C0C0</color>
+    <color name="strokebtnpayfailColor">#FF0000</color>
+    <color name="backbtnpayfailColor">#FF5F5F</color>
+</resources>

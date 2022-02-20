@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Space Life</string>
+
+    <string name="github_repo_link">https://github.com/Brook-sys/spacelife</string>
+    <string name="app1_playstore_pack">com.brookapps.slidesideways</string>
+    <string name="app2_playstore_pack">com.brookapps.videasy</string>
+
+
+    <string name="tab_home_text">PAGINA INICIAL</string>
+    <string name="tab_terrenos_text">MEUS TERRENOS</string>
+    <string name="default_moneyquantity_text">$ </string>
+    <string name="default_personname_text">John Doe</string>
+
+    <string name="tamanhoterreno_text">TAMANHO DO TERRENO:</string>
+    <string name="option_tamanho_1_text">30m²</string>
+    <string name="option_tamanho_2_text">50m²</string>
+    <string name="option_tamanho_3_text">100m²</string>
+    <string name="pacotedesejado_text">PACOTE DESEJADO:</string>
+    <string name="option_pacote_long_1_text">BASIC - Terreno</string>
+    <string name="option_pacote_long_2_text">STANDARD - Terreno + Viagem</string>
+    <string name="option_pacote_long_3_text">PREMIUM - Terreno + Viagem +  Seguro de 5 anos</string>
+    <string name="option_pacote_1_text">Basic</string>
+    <string name="option_pacote_2_text">Standard</string>
+    <string name="option_pacote_3_text">Premium</string>
+    <string name="tipoterreno_text">TIPO DE TERRENO:</string>
+    <string name="option_tipo_1_text">RESIDENCIAL</string>
+    <string name="option_tipo_2_text">COMERCIAL</string>
+    <string name="pay_button_text">PAGAR $ </string>
+
+    <string name="precototal_text">Preço total</string>
+    <string name="metodo_de_pagamento_text">Metodo de Pagamento</string>
+    <string name="saldo_text">Saldo</string>
+    <string name="sem_saldo_text">Saldo Insuficiente</string>
+    <string name="em_breve_text">Em breve...</string>
+    <string name="method_payment_1_text">Criptomoedas</string>
+    <string name="method_payment_1_descriptionimage">Metodo de pagamento em criptomoedas, indisponivel</string>
+    <string name="method_payment_2_text">Cartão de Credito</string>
+    <string name="method_payment_2_descriptionimage">Metodo de pagamento por Cartao de Credito, indisponivel</string>
+    <string name="method_payment_3_text">Boleto</string>
+    <string name="method_payment_3_descriptionimage">Metodo de pagamento por Boleto, indisponivel</string>
+    <string name="concluir_pagamento_button_text">CONCLUIR PAGAMENTO</string>
+
+    <string name="codigo_de_compra_text">Codigo de Compra: </string>
+    <string name="title_parabens_text">Parabéns!🥳</string>
+    <string name="desc_parabens_text">Você acaba de adquirir um terreno na lua, meus parabéns!!</string>
+    <string name="back_home_button_text">PAGINA INICIAL</string>
+
+    <string name="title_bonus_text">Bonus de Boas Vindas!! 🤩 </string>
+    <string name="desc_bonus_text">Em comemoração ao lançamento da Space Life estamos distribuindo 1 Milhão de Dolares para os novos usuarios. Apenas é necessario informar seu nome:</string>
+    <string name="resgatar_bonus_button_text">RESGATAR BONUS</string>
+    <string name="error_insira_um_nome_text">Para resgatar a recompensa insira um nome</string>
+
+    <string name="oferta_home_imagedescription">Pore tempo limitado 60% OFF</string>
+    <string name="title_home_text">COMPRE AGORA E GANHE UM BRINDE ESPECIAL</string>
+    <string name="desc_home_text">Compre um terreno conosco e vera a mudança acontecer, construa casas espetaculares em seu terreno, temos ainda varias opções para o caso de terrenos comerciais </string>
+    <string name="comprar_agora_button_text">COMPRAR AGORA</string>
+
+    <string name="welcome_title_text">Bem-vindo Space Life, Compre com segurança o terreno para sua nova vida</string>
+    <string name="welcome_subtitle1_text">Conforto e Segurança</string>
+    <string name="welcome_desc1_text">Garantimos o maior conforto e segurança em sua viagem a lua ou seu dinheiro de volta.</string>
+    <string name="welcome_subtitle2_text">Conforto e Segurança</string>
+    <string name="welcome_desc2_text">Garantimos o maior conforto e segurança em sua viagem a lua ou seu dinheiro de volta.</string>
+
+
+    <!--NÃO MUDAR DE JEITO NEHUM-->
+    <string name="sharedpref_key">PREFERENCIASAPP</string>
+    <string name="personName_pref">PERSONNAME</string>
+    <string name="bonusReceived_pref">BONUSRECEIVED</string>
+    <string name="moneyQuantity_pref">MONEYQUANTITY</string>
+    <string name="valorTotal_bundle">VALORTOTAL</string>
+    <string name="objterreno_bundle">OBJTERRENO</string>
+    <string name="objterrenolist_pref">OBJTERRENOLIST</string>
+    <string name="numerorand_pref">NUMERORAND</string>
+</resources>
